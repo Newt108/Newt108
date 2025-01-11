@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Newt</h1>
+<h1 align="center">Hey there 👋, I'm Newt</h1>
 <h3 align="center">Ctrl + C, Ctrl + V, with a touch of magic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newt108&label=Profile%20views&color=0e75b6&style=flat" alt="newt108" /> </p>
